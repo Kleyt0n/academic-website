@@ -22,7 +22,7 @@ role: MSc in Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Pontifical Catholic University of Rio de Janeiro
-    url: https://www.inf.puc-rio.br/en/di/
+    url: https://www.puc-rio.br/english/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Graph Neural Networks and Responsible AI.
