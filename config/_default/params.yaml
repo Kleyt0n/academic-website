@@ -6,7 +6,9 @@
 # Appearance
 
 appearance:
-  mode: dark
+  light_mode:
+    enable: true
+    default: false
   color: blue
   font: minimal
   font_size: M
