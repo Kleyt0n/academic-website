@@ -7,7 +7,6 @@
 
 appearance:
   mode: light
-  color: black
   font: minimal
   font_size: M
 
