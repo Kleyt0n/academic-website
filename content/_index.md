@@ -26,22 +26,33 @@ sections:
         - title: Machine Learning Researcher
           company: Holistic AI
           company_url: 'https://holisticai.com'
-          company_logo: org-x
+          company_logo: 
           location: London, UK
           date_start: '2021-08-01'
           date_end: ''
-          description: Build tools and methods to make AI more responsible
-        
+          description: Build tools and methods to make AI more responsible     
         - title: Researcher
           company: Pontifical Catholic University of Rio de Janeiro
           company_url: 'https://www.puc-rio.br/english/'
-          company_logo: org-x
+          company_logo: 
           location: Rio de Janeiro, Brazil
           date_start: '2023-03-01'
           date_end: ''
           description: Anomaly detection in oil wells using unsupervised algorithms
     design:
       columns: '2'
+  - block: collection
+    id: research
+    content:
+      title: Research Papers
+      text: ''
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: posts
     content:
@@ -69,17 +80,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    content:
-      title: Research Papers
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: portfolio
     id: projects
     content:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kleyton da Costa (He/Him)
+title: Kleyton da Costa
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc in Computer Science
+role: MSc Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -89,15 +89,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
-    link: https://x.com/
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://x.com/kleytondacosta
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=YLW5mg4AAAAJ&hl=en
@@ -118,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Kleyton da Costa is a MSc student in Computer Science at Pontifical Catholic University of Rio de Janeiro (PUC-Rio).He is Machine Learning Researcher at Holistic AI and Researcher at PUC-Rio. He also contribute as with Understanding Artificial Intelligence (UAI). His research interests include Graph Neural Networks, Responsible AI, Machine Learning Methods and Machine Learning Systems.
+Kleyton da Costa is a MSc student in Computer Science at Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He is Machine Learning Researcher at [Holistic AI](https://holisticai.com) and Researcher at PUC-Rio. He also contribute with [Understanding Artificial Intelligence (UAI)](https://understandingai.iea.usp.br/). His research interests include Graph Neural Networks, Responsible AI, Machine Learning Methods and Machine Learning Systems.
 {style="text-align: justify;"}

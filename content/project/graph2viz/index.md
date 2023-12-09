@@ -11,4 +11,10 @@ external_link: 'https://github.com/Kleyt0n/graph2viz'
 
 image:
   focal_point: Smart
+
+links:
+  - icon: github
+    icon_pack: fab
+    name: Contribute
+    url: 'https://github.com/Kleyt0n/graph2viz'
 ---
