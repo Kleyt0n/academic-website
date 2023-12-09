@@ -30,15 +30,23 @@ sections:
           location: London, UK
           date_start: '2021-08-01'
           date_end: ''
-          description: Build tools and methods to make AI more responsible     
+          description: Building tools and methods to make AI more responsible in main two areas - bias measuring & mitigation and explainability     
         - title: Researcher
-          company: Pontifical Catholic University of Rio de Janeiro
-          company_url: 'https://www.puc-rio.br/english/'
+          company: ExACTa (PUC-Rio)
+          company_url: 'https://www.exacta.inf.puc-rio.br/'
           company_logo: 
           location: Rio de Janeiro, Brazil
           date_start: '2023-03-01'
           date_end: ''
-          description: Anomaly detection in oil wells using unsupervised algorithms
+          description: Implementing anomaly detection in oil wells using unsupervised algorithms
+        - title: Data Scientist
+          company: State Government of Rio de Janeiro
+          company_url: 'https://www.rj.gov.br/'
+          company_logo: 
+          location: Rio de Janeiro, Brazil
+          date_start: '2022-01-01'
+          date_end: '2023-03-01'
+          description: Advising the State Government of Rio de Janeiro on data science projects
     design:
       columns: '2'
   - block: collection
