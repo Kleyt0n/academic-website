@@ -2,8 +2,6 @@
 title: graph2viz
 summary: graph2viz is an open-source platform to easily visualize graphs (networks), check some exploratory information, and explain graph neural networks outputs.
 tags:
-  - Graphs
-  - Data Visualization
   - Graph Neural Networks
 
 date: '2016-04-27T00:00:00Z'

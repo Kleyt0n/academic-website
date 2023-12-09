@@ -70,17 +70,6 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: featured
-    content:
-      title: Featured Research
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Research Papers
       text: ''
@@ -108,10 +97,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Graph Neural Networks
+          tag: Graph Neural Networks
+        - name: Optimization
+          tag: Optimization
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
