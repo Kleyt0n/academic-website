@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
+  mode: dark
   color: blue
   font: minimal
   font_size: M
