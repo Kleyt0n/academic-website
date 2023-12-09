@@ -42,7 +42,7 @@ sections:
         
         - title: Researcher
           company: Pontifical Catholic University of Rio de Janeiro
-          company_url: ''
+          company_url: 'https://www.puc-rio.br/english/'
           company_logo: org-x
           location: Rio de Janeiro, Brazil
           date_start: '2023-03-01'
