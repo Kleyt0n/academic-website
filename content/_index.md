@@ -52,8 +52,9 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research Papers
+      title: Research
       text: ''
+      count: 4
       filters:
         folders:
           - publication
