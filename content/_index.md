@@ -65,11 +65,11 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         folders:
@@ -110,9 +110,11 @@ sections:
           tag: Graph Neural Networks
         - name: Optimization
           tag: Optimization
+        - name: Computational Geometry
+          tag: Computational Geometry
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false

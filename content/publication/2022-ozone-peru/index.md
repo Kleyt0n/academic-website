@@ -1,5 +1,5 @@
 ---
-title: "Statistical and Artificial Neural Networks Models for Electricity Consumption Forecasting in the Brazilian Industrial Sector"
+title: "A machine learning approach to analyse ozone concentration in metropolitan area of Lima, Peru"
 authors:
 - Natalí Carbo-Bustinza
 - Marisol Belmonte
