@@ -92,7 +92,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Open-source
       filters:
         folders:
           - project
