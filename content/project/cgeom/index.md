@@ -1,6 +1,6 @@
 ---
-title: scikit-geometry
-summary: scikit-geometry is a Python library for computational geometry algorithms.
+title: compute-geometry
+summary: compute-geometry (cgeom) is a Python library for computational geometry algorithms.
 
 tags:
   - Computational geometry
@@ -11,7 +11,7 @@ tags:
 date: "2023-12-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Kleyt0n/scikit-geometry
+external_link: https://github.com/Kleyt0n/compute-geometry
 
 image:
   focal_point: Smart
@@ -20,5 +20,5 @@ links:
   - icon: github
     icon_pack: fab
     name: Contribute
-    url: 'https://github.com/Kleyt0n/scikit-geometry'
+    url: 'https://github.com/Kleyt0n/compute-geometry'
 ---
