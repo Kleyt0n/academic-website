@@ -3,7 +3,7 @@ title: quantspace
 summary: Python library designed specifically for quantitative finance, with a primary focus on supporting research and education in the field.
 tags:
   - Quantitative finance
-  - Portfolio optimization
+  - Optimization
   - Risk management
   - Anomaly detection
 

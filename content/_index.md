@@ -110,12 +110,12 @@ sections:
           tag: '*'
         - name: Graph Neural Networks
           tag: Graph Neural Networks
+        - name: Responsible AI
+          tag: Responsible AI
         - name: Optimization
           tag: Optimization
         - name: Computational Geometry
           tag: Computational Geometry
-        - name: Quantitative Finance
-          tag: Quantitative finance
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
