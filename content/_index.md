@@ -93,6 +93,8 @@ sections:
     id: projects
     content:
       title: Open-source
+      subtitle: 'Our research has the goal of being open-source and reproducible. Check out some of individial and co-authored projects. I am pythonist, so most of them are written in Python.'
+      text: 'Filter by tags:'
       filters:
         folders:
           - project
@@ -112,6 +114,8 @@ sections:
           tag: Optimization
         - name: Computational Geometry
           tag: Computational Geometry
+        - name: Quantitative Finance
+          tag: Quantitative finance
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
