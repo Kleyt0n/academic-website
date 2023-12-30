@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Engineer
+        - title: Machine Learning Researcher
           company: Holistic AI
           company_url: 'https://holisticai.com'
           company_logo: 
@@ -31,7 +31,7 @@ sections:
           date_start: '2021-08-01'
           date_end: ''
           description: Building tools and methods to make AI more responsible in main two areas - bias measuring & mitigation and explainability     
-        - title: Researcher
+        - title: Research Engineer
           company: ExACTa (PUC-Rio)
           company_url: 'https://www.exacta.inf.puc-rio.br/'
           company_logo: 
