@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Machine Learning Researcher
+        - title: Research Engineer
           company: Holistic AI
           company_url: 'https://holisticai.com'
           company_logo: 
