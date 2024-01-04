@@ -16,6 +16,20 @@ main:
   - name: Open-source
     url: '#projects'
     weight: 40
+  - name : Learn
+    weight: 50
+  - parent: Learn
+    name: (Book) Responsible AI - Theory and Practice
+    url: https://responsibleaibook.netlify.app/intro.html
+    weight: 10
+  - parent: Learn
+    name: (Book in portuguese) Time Series - analysis and forecast in Python
+    url: https://seriestemporais.netlify.app/intro.html
+    weight: 20
+  - parent: Learn
+    name: (Code) Machine Learning 101
+    url: https://github.com/Kleyt0n/ml-101
+    weight: 30
   - name: Resume
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
