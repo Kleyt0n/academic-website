@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Kleyton da Costa is a MSc student in Computer Science at Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He is a Machine Learning Reseacrher at [Holistic AI](https://holisticai.com) and Research Engineer at PUC-Rio. He also contribute with [Understanding Artificial Intelligence (UAI)](https://understandingai.iea.usp.br/). His research interests include Graph Neural Networks, Responsible AI, Machine Learning Methods and Machine Learning Systems.
+Kleyton da Costa is a MSc student in Computer Science at Pontifical Catholic University of Rio de Janeiro (PUC-Rio). He is a Machine Learning Researcher at [Holistic AI](https://holisticai.com) and Research Engineer at PUC-Rio. He also contribute with [Understanding Artificial Intelligence (UAI)](https://understandingai.iea.usp.br/). His research interests include Graph Neural Networks, Responsible AI, Machine Learning Methods and Machine Learning Systems.
 {style="text-align: justify;"}
